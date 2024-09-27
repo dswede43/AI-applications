@@ -1,6 +1,19 @@
 # FlickFinder: machine learning movie recommendation system
 ![alt text](./static/android-chrome-512x512.png)
 
+## Installation
+### Dependencies
+Two (parquet data files)[https://files.stratz.me/FlickFinder] are required to run the app:
+
+1. A subset of the movies data frame
+2. The model matrix
+
+### Docker
+A docker image of this app can also be pulled from my Docker Hub [repository](https://hub.docker.com/r/dswede43/flickfinder).
+
+#### Example
+A running instance of the app can be found [here](https://flickfinder.stratz.me).
+
 ## Introduction
 In an era where the vast ocean of streaming platforms offers an overwhelming array of movies and shows,
 finding the perfect cinematic gem can feel like searching for a needle in a haystack. To navigate this
@@ -64,16 +77,3 @@ release dates and allow the recommendations to differentiate between adult and c
 
 Lastly, the speed up the processing time of a movie recommendation query, Cython could be used to speed
 up the functions that were written in Python by compiling the Python code to C.
-
-## Installation
-### Dependencies
-Two (parquet data files)[https://files.stratz.me/FlickFinder] are required to run the app:
-
-1. A subset of the movies data frame
-2. The model matrix
-
-### Docker
-A docker image of this app can also be pulled from my Docker Hub [repository](https://hub.docker.com/r/dswede43/flickfinder).
-
-#### Example
-A running instance of the app can be found [here](https://flickfinder.stratz.me).
