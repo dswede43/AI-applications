@@ -1,6 +1,4 @@
 # Deep learning projects and applications
-![alt text](./AI_brain.png)
-
 My code to create projects and applications that utilize deep learning models.
 
 ## BerryBloomID
