@@ -1,4 +1,6 @@
 # AI Applications
+![alt text](./AI_brain.png)
+
 My repository of applications that utilize machine learning methods to solve a problem.
 
 ## Deep learning

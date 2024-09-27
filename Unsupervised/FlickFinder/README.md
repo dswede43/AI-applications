@@ -1,5 +1,5 @@
 # FlickFinder: machine learning movie recommendation system
-![alt text](.static/android-chrome-512x512.png)
+![alt text](./static/android-chrome-512x512.png)
 
 ## Introduction
 In an era where the vast ocean of streaming platforms offers an overwhelming array of movies and shows,
@@ -67,7 +67,7 @@ up the functions that were written in Python by compiling the Python code to C.
 
 ## Installation
 ### Dependencies
-Two [https://files.stratz.me/FlickFinder](parquet data files) are required to run the app:
+Two (parquet data files)[https://files.stratz.me/FlickFinder] are required to run the app:
 
 1. A subset of the movies data frame
 2. The model matrix
