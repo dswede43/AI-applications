@@ -1,0 +1,7 @@
+[server]
+port = 5001
+
+[theme]
+base="dark"
+backgroundColor="#000000"
+textColor="#e45252"
