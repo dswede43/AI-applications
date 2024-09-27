@@ -3,7 +3,7 @@
 
 ## Installation
 ### Dependencies
-Two (parquet data files)[https://files.stratz.me/FlickFinder] are required to run the app:
+Two [parquet data files](https://files.stratz.me/FlickFinder) are required to run the app:
 
 1. A subset of the movies data frame
 2. The model matrix
